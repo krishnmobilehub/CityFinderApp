@@ -6,7 +6,8 @@
 * Display location of selected location. 
 * App is caching API result.
 * Search city by API result.
-* You can find demo video from here:https://github.com/krishnmobilehub/Cities/files/3750413/CGJY3688.MP4.zip
+* You can find demo video from here:(https://github.com/krishnmobilehub/CityFinderApp/files/3978415/CGJY3688.MP4.zip)
+
 
 # Requirements
 
