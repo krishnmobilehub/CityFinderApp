@@ -1,0 +1,6 @@
+framework module Pods_CityFinderApp {
+  umbrella header "Pods-CityFinderApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

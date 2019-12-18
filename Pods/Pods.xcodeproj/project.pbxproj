@@ -8,115 +8,115 @@
 
 /* Begin PBXBuildFile section */
 		0C5E11DE24DAA737704B355F5F2F3426 /* ParameterEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D01BA8472F25D39F718F71557EDC8DD /* ParameterEncoding.swift */; };
-		128B954F26E174AD53738AF172CAF890 /* Pods-CitiesUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A081DA23D38E9233DE29C22C9CEC858C /* Pods-CitiesUITests-dummy.m */; };
 		132E0F619E4338E5D1B27E4C72076B3F /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06639F7A76DB8A9D0D0E41CDD7A6684 /* Notifications.swift */; };
 		1945CD5D63A1C164AEAAA9A33E85571E /* Alamofire-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 341BDAD0026CDA8E7BCE35AC122E1C8C /* Alamofire-dummy.m */; };
 		1986B50C74F1697EA43F68335C93CEB3 /* MultipartFormData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFCE3D7EDCA41F256D471B40BBFD3FCE /* MultipartFormData.swift */; };
-		1B07EB774CE2CA5B47AAF392B8EFF5DA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		23C3CE2CF39F8CDA3218EDCEF0CA6605 /* Pods-Cities-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FEEA574E08A10733C4C48A7D7F0D67CC /* Pods-Cities-dummy.m */; };
 		2C61B040BA6A9A7AE66C4D9BA26D5520 /* SessionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F640F61D5BEE8132009BAEAA65B587A4 /* SessionDelegate.swift */; };
 		3571F958A3907B3A806E62D50C2550D4 /* NetworkReachabilityManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5460AD0F6241621B45A17AB23A8E5B7 /* NetworkReachabilityManager.swift */; };
-		36F04965E2A0A6BEF4BA4638E0387FD1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		43AC6AEA9396F8DB2192D1EB196DC36D /* Pods-CitiesTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 43246D68590B970BC5FA6A15A197AC9C /* Pods-CitiesTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3ACCD292A41350A037C2ED332E537B48 /* Pods-CityFinderApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B7951CE537127633AECC9393070B6E2D /* Pods-CityFinderApp-dummy.m */; };
+		428A1CAE0B83588DE533A8C40CADB63A /* Pods-CityFinderAppUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 92C886C86C9294B0E1C657821B1F0E82 /* Pods-CityFinderAppUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53791F5E5F07400F92CFDFC89A432305 /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33115EC2A5164913C68F8BD170389EEE /* Validation.swift */; };
+		59F45300E10C0E0E564F92AC6451415B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		64744C911253C3E01461FAD7C935C8D7 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD807F155301ECA538A2C1C296E1186D /* Result.swift */; };
-		6CA34CA23DB734DCCFB1226BB9A3F6F4 /* Pods-CitiesUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A62DD2B5FDD20479042D893219238885 /* Pods-CitiesUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6F92546527AAC4B13B245DCDE84209EE /* Pods-CityFinderAppUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5446C311EE89C064618BFE0D28B9E1D3 /* Pods-CityFinderAppUITests-dummy.m */; };
+		72D3C4D2BCD8FD8C11D24D6E69A24704 /* Pods-CityFinderAppTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EF546F34533A18486B5E19BF44D0016 /* Pods-CityFinderAppTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7664FD4F59A0C00866CBAE60B0A3AD64 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		7D7B67D5F17F682781621891B85F9302 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		83956E20859CDBBE7BC38ABADE0170FB /* AFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5A0E300C04A6DF88D620788FE38780 /* AFError.swift */; };
 		931BBB8230A25161D5C37528A8F9FECF /* SessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E25E371731FAE44F46A9F392CB5D5 /* SessionManager.swift */; };
 		933FDA5970AA525D6CB92BFEBA2BAB4A /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB5272AD01ECD0B09A86818A7754C4 /* Timeline.swift */; };
 		98A929C8E9012AB167672714FFD2113C /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D59E1AD3CC394A93392FF3DC8CF2961 /* Request.swift */; };
+		A973FF2F4F11E7D0B6C2E84FBEFFC871 /* Pods-CityFinderApp-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E7F861EEDC5C9759569E27F0FB2A4186 /* Pods-CityFinderApp-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AECDA65F296559336D3DD396B32815A8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		AFC64B1097F7355FF423D6A73E9C7210 /* TaskDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C759635F88377BD7E2DEDE04C23C62 /* TaskDelegate.swift */; };
 		BEE6B677416CA71C981D1D3F60B18C96 /* Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C15C076B531E2E7744C358418A0C0B5 /* Alamofire.swift */; };
+		C757E0387A43B89992F2FF51A21787DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		D3D8C379C6E4FB487E5ABD6800AD7B7E /* DispatchQueue+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF7F7716086D54E6308EE52C8227B87 /* DispatchQueue+Alamofire.swift */; };
 		D65C254F5ABF2CB5ECEE50FE8F8E1A80 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCC6858C85690F7AFEA7F6542EE9A69A /* Response.swift */; };
-		E2170F290070DA8C6AC53E944C23BAA5 /* Pods-CitiesTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 348A4051FF5E0AA0F9D9E1A99FD9C2DE /* Pods-CitiesTests-dummy.m */; };
 		E3747EC31FCCA97D75A81FC700CF7E24 /* ResponseSerialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B03859BDC36782899379E222720A297 /* ResponseSerialization.swift */; };
+		E68FE869AE635A42551EFDDF88CB4781 /* Pods-CityFinderAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3793C8E5FD92BC9DBF40FD28E92B3411 /* Pods-CityFinderAppTests-dummy.m */; };
 		F13F2AA7F2E6D95A181CAB99B900D531 /* ServerTrustPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4453BE339B79900FDC53E34FE5589CB /* ServerTrustPolicy.swift */; };
-		F538012272F3694568E6C28EDBAE3261 /* Pods-Cities-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 63A6D97CC200A6B331A858DF496568C7 /* Pods-Cities-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F7B74645E07C39771156A1FA413B98D4 /* Alamofire-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D54AEF5647A987180EDAD7E1CEF7387B /* Alamofire-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		7684B76B1F46B14A4737F08D265C1EDF /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E5501AD3F9BF195EAB00F75E61B9845B;
-			remoteInfo = "Pods-Cities";
-		};
-		88E5E34C1170A3ECA65B5299A76B7F20 /* PBXContainerItemProxy */ = {
+		62CBBF2F539AA67CD433ED760D6BEB87 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = EAAA1AD3A8A1B59AB91319EE40752C6D;
 			remoteInfo = Alamofire;
 		};
-		CABFA276F49691628270E9C8D6DE0E88 /* PBXContainerItemProxy */ = {
+		64294C605A48098091337618E87656E9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E5501AD3F9BF195EAB00F75E61B9845B;
-			remoteInfo = "Pods-Cities";
+			remoteGlobalIDString = 61DCC628803A7AB235E600AD269E8262;
+			remoteInfo = "Pods-CityFinderApp";
+		};
+		7CBA07898178E8BAF7F1FFC3A45AED88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 61DCC628803A7AB235E600AD269E8262;
+			remoteInfo = "Pods-CityFinderApp";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03B9722D8BAF9A72DE9AF649272EFAB1 /* Pods-CitiesUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CitiesUITests-Info.plist"; sourceTree = "<group>"; };
 		0D01BA8472F25D39F718F71557EDC8DD /* ParameterEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoding.swift; path = Source/ParameterEncoding.swift; sourceTree = "<group>"; };
-		0E8C6569E8C82760F09370F69F47AD66 /* Pods-CitiesUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CitiesUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		0EFE0DE17569FFB965F9CBE43FA43F3C /* Pods-CitiesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CitiesTests.debug.xcconfig"; sourceTree = "<group>"; };
-		1B19E0C496CE69DD9B32796EDC55BCA6 /* Pods-Cities.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Cities.debug.xcconfig"; sourceTree = "<group>"; };
+		17013F4BEA6BDC8A83FA0080C7946053 /* Pods-CityFinderAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CityFinderAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1C15C076B531E2E7744C358418A0C0B5 /* Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alamofire.swift; path = Source/Alamofire.swift; sourceTree = "<group>"; };
-		24C6CF0F6CA2CEF371EA49961DCE440A /* Pods-CitiesTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CitiesTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		1CB9441BF9AA607AAC48E2BF4623DF54 /* Pods-CityFinderApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CityFinderApp.debug.xcconfig"; sourceTree = "<group>"; };
+		30AA215365C15E59F67C38DBDA77F664 /* Pods_CityFinderApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CityFinderApp.framework; path = "Pods-CityFinderApp.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		32DB5272AD01ECD0B09A86818A7754C4 /* Timeline.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Timeline.swift; path = Source/Timeline.swift; sourceTree = "<group>"; };
 		33115EC2A5164913C68F8BD170389EEE /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
-		338473EC8D1C9173AF308B8200008295 /* Pods_Cities.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Cities.framework; path = "Pods-Cities.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		341BDAD0026CDA8E7BCE35AC122E1C8C /* Alamofire-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Alamofire-dummy.m"; sourceTree = "<group>"; };
-		348A4051FF5E0AA0F9D9E1A99FD9C2DE /* Pods-CitiesTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CitiesTests-dummy.m"; sourceTree = "<group>"; };
-		37361018F08BCF371AC5080B6BFD3254 /* Pods-CitiesUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CitiesUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		3793C8E5FD92BC9DBF40FD28E92B3411 /* Pods-CityFinderAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CityFinderAppTests-dummy.m"; sourceTree = "<group>"; };
+		39DFFCC52AE282632394B3EBAA421716 /* Pods_CityFinderAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CityFinderAppUITests.framework; path = "Pods-CityFinderAppUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D7E25E371731FAE44F46A9F392CB5D5 /* SessionManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionManager.swift; path = Source/SessionManager.swift; sourceTree = "<group>"; };
-		40CABAC3ADDDC6DD0ACE03C33BB38362 /* Pods-Cities-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Cities-frameworks.sh"; sourceTree = "<group>"; };
-		43246D68590B970BC5FA6A15A197AC9C /* Pods-CitiesTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CitiesTests-umbrella.h"; sourceTree = "<group>"; };
+		4065A5A8CE654483875DC7552111FF4F /* Pods-CityFinderApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CityFinderApp-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4A2D1F91BAAA7DC9B56EAD149C133E18 /* Pods-CityFinderAppUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CityFinderAppUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		5446C311EE89C064618BFE0D28B9E1D3 /* Pods-CityFinderAppUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CityFinderAppUITests-dummy.m"; sourceTree = "<group>"; };
+		580563E9DF2FFBADE67C7C5A37378DAD /* Pods-CityFinderAppUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CityFinderAppUITests.modulemap"; sourceTree = "<group>"; };
+		5A9ED73AA7927425D517617FBB5EA2DE /* Pods-CityFinderAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CityFinderAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5D797E9A5C5782CE845840781FA1CC81 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire.framework; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		63A6D97CC200A6B331A858DF496568C7 /* Pods-Cities-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Cities-umbrella.h"; sourceTree = "<group>"; };
-		707ACA68EBC80A973A9493FC17164965 /* Pods-Cities-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Cities-acknowledgements.markdown"; sourceTree = "<group>"; };
+		5EF546F34533A18486B5E19BF44D0016 /* Pods-CityFinderAppTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CityFinderAppTests-umbrella.h"; sourceTree = "<group>"; };
+		62368B19054B90A2F3BFAC63196E8B73 /* Pods-CityFinderAppUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CityFinderAppUITests-Info.plist"; sourceTree = "<group>"; };
+		6898D849CDD70C95884A0C575FE55879 /* Pods-CityFinderApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CityFinderApp-frameworks.sh"; sourceTree = "<group>"; };
+		70EFD47CDB90034EEE33BD09552C9FC4 /* Pods-CityFinderApp.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CityFinderApp.modulemap"; sourceTree = "<group>"; };
 		75C759635F88377BD7E2DEDE04C23C62 /* TaskDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TaskDelegate.swift; path = Source/TaskDelegate.swift; sourceTree = "<group>"; };
-		7ADF65E08AB85BFF15279FC5DD66FCF3 /* Pods-CitiesUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CitiesUITests.release.xcconfig"; sourceTree = "<group>"; };
+		76C8BF03001F3AC63DBF8AA5FD597445 /* Pods-CityFinderAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CityFinderAppUITests.release.xcconfig"; sourceTree = "<group>"; };
 		7B03859BDC36782899379E222720A297 /* ResponseSerialization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResponseSerialization.swift; path = Source/ResponseSerialization.swift; sourceTree = "<group>"; };
+		7DD7C585DB7441946426538B45552D69 /* Pods-CityFinderAppUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CityFinderAppUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8D5A0E300C04A6DF88D620788FE38780 /* AFError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AFError.swift; path = Source/AFError.swift; sourceTree = "<group>"; };
-		91864601632C80F86095107F4FBBC621 /* Pods-Cities.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Cities.release.xcconfig"; sourceTree = "<group>"; };
-		9427E323C21686BA69CDDC2F81D9381F /* Pods-CitiesTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CitiesTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8DAFB280D5C0D62C2AFC045F25114704 /* Pods-CityFinderAppTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CityFinderAppTests-Info.plist"; sourceTree = "<group>"; };
+		8EDBA0A1C35DDBBAE7F285D483338AD2 /* Pods-CityFinderApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CityFinderApp-acknowledgements.plist"; sourceTree = "<group>"; };
+		903819482A3B939F14359C7C7671B9C0 /* Pods-CityFinderAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CityFinderAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		92C886C86C9294B0E1C657821B1F0E82 /* Pods-CityFinderAppUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CityFinderAppUITests-umbrella.h"; sourceTree = "<group>"; };
 		985417470B9341C92A5160D4B2FF2B08 /* Alamofire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Alamofire.xcconfig; sourceTree = "<group>"; };
-		99982BAA7DFEE961782D4198150AA6D6 /* Pods-CitiesTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CitiesTests.modulemap"; sourceTree = "<group>"; };
-		9B47AB79FA7423FC6F3902E5B0C7CF66 /* Pods-Cities-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Cities-acknowledgements.plist"; sourceTree = "<group>"; };
-		9BD93208A0D8F3F3DDB5B15FB8D7F288 /* Pods-CitiesUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CitiesUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9D59E1AD3CC394A93392FF3DC8CF2961 /* Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Request.swift; path = Source/Request.swift; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9DEC55CA87514681625C7C6A4A330B4F /* Pods_CitiesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CitiesUITests.framework; path = "Pods-CitiesUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A081DA23D38E9233DE29C22C9CEC858C /* Pods-CitiesUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CitiesUITests-dummy.m"; sourceTree = "<group>"; };
-		A62DD2B5FDD20479042D893219238885 /* Pods-CitiesUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CitiesUITests-umbrella.h"; sourceTree = "<group>"; };
+		A990B274C90E34F348F5254D5A19A3D0 /* Pods-CityFinderAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CityFinderAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		AD8710F26B62AABFF387E9CA4F6899A4 /* Alamofire.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Alamofire.modulemap; sourceTree = "<group>"; };
 		AFF7F7716086D54E6308EE52C8227B87 /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
 		B06639F7A76DB8A9D0D0E41CDD7A6684 /* Notifications.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Notifications.swift; path = Source/Notifications.swift; sourceTree = "<group>"; };
-		B4BBE0239BB2F3703C067F3D71DA8A60 /* Pods-Cities.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Cities.modulemap"; sourceTree = "<group>"; };
-		BE25C9E13DF7F38ECAA76B20E8B839DE /* Pods-CitiesUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CitiesUITests.modulemap"; sourceTree = "<group>"; };
+		B74557C47515A7B70DB9C948261AC13D /* Pods-CityFinderApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CityFinderApp.release.xcconfig"; sourceTree = "<group>"; };
+		B7951CE537127633AECC9393070B6E2D /* Pods-CityFinderApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CityFinderApp-dummy.m"; sourceTree = "<group>"; };
+		B7E446BFB7209C1B05FFEE47D1DE0B73 /* Pods-CityFinderAppTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CityFinderAppTests.modulemap"; sourceTree = "<group>"; };
 		BFCE3D7EDCA41F256D471B40BBFD3FCE /* MultipartFormData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartFormData.swift; path = Source/MultipartFormData.swift; sourceTree = "<group>"; };
+		C2E0BC36995689582798B6E468F1BDEC /* Pods-CityFinderAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CityFinderAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		C4453BE339B79900FDC53E34FE5589CB /* ServerTrustPolicy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustPolicy.swift; path = Source/ServerTrustPolicy.swift; sourceTree = "<group>"; };
 		C9C3EF964FFA8A9F78851B59A8D4FFBC /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
+		CC8B70B640676436173290EC63263355 /* Pods-CityFinderApp-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CityFinderApp-Info.plist"; sourceTree = "<group>"; };
 		CCC6858C85690F7AFEA7F6542EE9A69A /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
 		D54AEF5647A987180EDAD7E1CEF7387B /* Alamofire-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-umbrella.h"; sourceTree = "<group>"; };
 		DD807F155301ECA538A2C1C296E1186D /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Source/Result.swift; sourceTree = "<group>"; };
 		DE36AED4DF687B2D37BD230D9D2F69B6 /* Alamofire-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Alamofire-Info.plist"; sourceTree = "<group>"; };
-		E5DCB36466ABA43CA0159BB575A60A45 /* Pods_CitiesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CitiesTests.framework; path = "Pods-CitiesTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E67D0D3E4BDB41DBDE2BC4C5F72144D4 /* Pods-Cities-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Cities-Info.plist"; sourceTree = "<group>"; };
-		E76D8C1C937904444C0BA67AAA450F77 /* Pods-CitiesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CitiesTests.release.xcconfig"; sourceTree = "<group>"; };
-		EA351A07E0B8398AF9886E8664A78936 /* Pods-CitiesTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CitiesTests-Info.plist"; sourceTree = "<group>"; };
+		E7F861EEDC5C9759569E27F0FB2A4186 /* Pods-CityFinderApp-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CityFinderApp-umbrella.h"; sourceTree = "<group>"; };
 		F5460AD0F6241621B45A17AB23A8E5B7 /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkReachabilityManager.swift; path = Source/NetworkReachabilityManager.swift; sourceTree = "<group>"; };
 		F640F61D5BEE8132009BAEAA65B587A4 /* SessionDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionDelegate.swift; path = Source/SessionDelegate.swift; sourceTree = "<group>"; };
-		FEEA574E08A10733C4C48A7D7F0D67CC /* Pods-Cities-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Cities-dummy.m"; sourceTree = "<group>"; };
+		FE7649F4E30F40E7A7F019C3246A2E80 /* Pods_CityFinderAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CityFinderAppTests.framework; path = "Pods-CityFinderAppTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,52 +128,74 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A93643DBB6A16EB80A87F5DCFCBB9608 /* Frameworks */ = {
+		D84A2D49AB5A03F10F3810510D34D678 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36F04965E2A0A6BEF4BA4638E0387FD1 /* Foundation.framework in Frameworks */,
+				59F45300E10C0E0E564F92AC6451415B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B3C41D704C385BAADF63835525B7CB58 /* Frameworks */ = {
+		F7D7DFD20725447E3CE4CE2747D5BF28 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B07EB774CE2CA5B47AAF392B8EFF5DA /* Foundation.framework in Frameworks */,
+				C757E0387A43B89992F2FF51A21787DE /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CBACD8125A930BC6E7CB5F0F95F836B0 /* Frameworks */ = {
+		FE64C153331F2ECA24A1F2C211EB7668 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D7B67D5F17F682781621891B85F9302 /* Foundation.framework in Frameworks */,
+				AECDA65F296559336D3DD396B32815A8 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		10BCCD47BB77368ACE71E8D5445F2EED /* Products */ = {
+		1B97C9F51D317DDA9AF2FBEF4108D46C /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				5D797E9A5C5782CE845840781FA1CC81 /* Alamofire.framework */,
-				338473EC8D1C9173AF308B8200008295 /* Pods_Cities.framework */,
-				E5DCB36466ABA43CA0159BB575A60A45 /* Pods_CitiesTests.framework */,
-				9DEC55CA87514681625C7C6A4A330B4F /* Pods_CitiesUITests.framework */,
+				30AA215365C15E59F67C38DBDA77F664 /* Pods_CityFinderApp.framework */,
+				FE7649F4E30F40E7A7F019C3246A2E80 /* Pods_CityFinderAppTests.framework */,
+				39DFFCC52AE282632394B3EBAA421716 /* Pods_CityFinderAppUITests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5BBE8C79E211BBCF627AA021E1DD467D /* Targets Support Files */ = {
+		509E9803370A08BFF9031DF8D542B012 /* Pods-CityFinderAppUITests */ = {
 			isa = PBXGroup;
 			children = (
-				9EBBE2D8E7EF98B362460EAA4846A8A0 /* Pods-Cities */,
-				8FD26B8EC791360367B583A5052A9AD8 /* Pods-CitiesTests */,
-				F758B12DC47956109AA9B3AB7238E550 /* Pods-CitiesUITests */,
+				580563E9DF2FFBADE67C7C5A37378DAD /* Pods-CityFinderAppUITests.modulemap */,
+				7DD7C585DB7441946426538B45552D69 /* Pods-CityFinderAppUITests-acknowledgements.markdown */,
+				4A2D1F91BAAA7DC9B56EAD149C133E18 /* Pods-CityFinderAppUITests-acknowledgements.plist */,
+				5446C311EE89C064618BFE0D28B9E1D3 /* Pods-CityFinderAppUITests-dummy.m */,
+				62368B19054B90A2F3BFAC63196E8B73 /* Pods-CityFinderAppUITests-Info.plist */,
+				92C886C86C9294B0E1C657821B1F0E82 /* Pods-CityFinderAppUITests-umbrella.h */,
+				A990B274C90E34F348F5254D5A19A3D0 /* Pods-CityFinderAppUITests.debug.xcconfig */,
+				76C8BF03001F3AC63DBF8AA5FD597445 /* Pods-CityFinderAppUITests.release.xcconfig */,
 			);
-			name = "Targets Support Files";
+			name = "Pods-CityFinderAppUITests";
+			path = "Target Support Files/Pods-CityFinderAppUITests";
+			sourceTree = "<group>";
+		};
+		58CF320A7F1C0CE0280198DB85C71541 /* Pods-CityFinderAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				B7E446BFB7209C1B05FFEE47D1DE0B73 /* Pods-CityFinderAppTests.modulemap */,
+				903819482A3B939F14359C7C7671B9C0 /* Pods-CityFinderAppTests-acknowledgements.markdown */,
+				17013F4BEA6BDC8A83FA0080C7946053 /* Pods-CityFinderAppTests-acknowledgements.plist */,
+				3793C8E5FD92BC9DBF40FD28E92B3411 /* Pods-CityFinderAppTests-dummy.m */,
+				8DAFB280D5C0D62C2AFC045F25114704 /* Pods-CityFinderAppTests-Info.plist */,
+				5EF546F34533A18486B5E19BF44D0016 /* Pods-CityFinderAppTests-umbrella.h */,
+				5A9ED73AA7927425D517617FBB5EA2DE /* Pods-CityFinderAppTests.debug.xcconfig */,
+				C2E0BC36995689582798B6E468F1BDEC /* Pods-CityFinderAppTests.release.xcconfig */,
+			);
+			name = "Pods-CityFinderAppTests";
+			path = "Target Support Files/Pods-CityFinderAppTests";
 			sourceTree = "<group>";
 		};
 		5C26875CAEBEFEDA19F66418CD7AE5DB /* Support Files */ = {
@@ -190,20 +212,31 @@
 			path = "../Target Support Files/Alamofire";
 			sourceTree = "<group>";
 		};
-		8FD26B8EC791360367B583A5052A9AD8 /* Pods-CitiesTests */ = {
+		8334225C358B045BB4D97337A0CA590A /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				99982BAA7DFEE961782D4198150AA6D6 /* Pods-CitiesTests.modulemap */,
-				9427E323C21686BA69CDDC2F81D9381F /* Pods-CitiesTests-acknowledgements.markdown */,
-				24C6CF0F6CA2CEF371EA49961DCE440A /* Pods-CitiesTests-acknowledgements.plist */,
-				348A4051FF5E0AA0F9D9E1A99FD9C2DE /* Pods-CitiesTests-dummy.m */,
-				EA351A07E0B8398AF9886E8664A78936 /* Pods-CitiesTests-Info.plist */,
-				43246D68590B970BC5FA6A15A197AC9C /* Pods-CitiesTests-umbrella.h */,
-				0EFE0DE17569FFB965F9CBE43FA43F3C /* Pods-CitiesTests.debug.xcconfig */,
-				E76D8C1C937904444C0BA67AAA450F77 /* Pods-CitiesTests.release.xcconfig */,
+				8FCE2A2320EDCBE720F1EC5DBFA8C99B /* Pods-CityFinderApp */,
+				58CF320A7F1C0CE0280198DB85C71541 /* Pods-CityFinderAppTests */,
+				509E9803370A08BFF9031DF8D542B012 /* Pods-CityFinderAppUITests */,
 			);
-			name = "Pods-CitiesTests";
-			path = "Target Support Files/Pods-CitiesTests";
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		8FCE2A2320EDCBE720F1EC5DBFA8C99B /* Pods-CityFinderApp */ = {
+			isa = PBXGroup;
+			children = (
+				70EFD47CDB90034EEE33BD09552C9FC4 /* Pods-CityFinderApp.modulemap */,
+				4065A5A8CE654483875DC7552111FF4F /* Pods-CityFinderApp-acknowledgements.markdown */,
+				8EDBA0A1C35DDBBAE7F285D483338AD2 /* Pods-CityFinderApp-acknowledgements.plist */,
+				B7951CE537127633AECC9393070B6E2D /* Pods-CityFinderApp-dummy.m */,
+				6898D849CDD70C95884A0C575FE55879 /* Pods-CityFinderApp-frameworks.sh */,
+				CC8B70B640676436173290EC63263355 /* Pods-CityFinderApp-Info.plist */,
+				E7F861EEDC5C9759569E27F0FB2A4186 /* Pods-CityFinderApp-umbrella.h */,
+				1CB9441BF9AA607AAC48E2BF4623DF54 /* Pods-CityFinderApp.debug.xcconfig */,
+				B74557C47515A7B70DB9C948261AC13D /* Pods-CityFinderApp.release.xcconfig */,
+			);
+			name = "Pods-CityFinderApp";
+			path = "Target Support Files/Pods-CityFinderApp";
 			sourceTree = "<group>";
 		};
 		90FDDC7F5D24472360CA259A8D40AE98 /* Pods */ = {
@@ -212,23 +245,6 @@
 				ABBD6121E62B33A53CF07892A75F2030 /* Alamofire */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		9EBBE2D8E7EF98B362460EAA4846A8A0 /* Pods-Cities */ = {
-			isa = PBXGroup;
-			children = (
-				B4BBE0239BB2F3703C067F3D71DA8A60 /* Pods-Cities.modulemap */,
-				707ACA68EBC80A973A9493FC17164965 /* Pods-Cities-acknowledgements.markdown */,
-				9B47AB79FA7423FC6F3902E5B0C7CF66 /* Pods-Cities-acknowledgements.plist */,
-				FEEA574E08A10733C4C48A7D7F0D67CC /* Pods-Cities-dummy.m */,
-				40CABAC3ADDDC6DD0ACE03C33BB38362 /* Pods-Cities-frameworks.sh */,
-				E67D0D3E4BDB41DBDE2BC4C5F72144D4 /* Pods-Cities-Info.plist */,
-				63A6D97CC200A6B331A858DF496568C7 /* Pods-Cities-umbrella.h */,
-				1B19E0C496CE69DD9B32796EDC55BCA6 /* Pods-Cities.debug.xcconfig */,
-				91864601632C80F86095107F4FBBC621 /* Pods-Cities.release.xcconfig */,
-			);
-			name = "Pods-Cities";
-			path = "Target Support Files/Pods-Cities";
 			sourceTree = "<group>";
 		};
 		ABBD6121E62B33A53CF07892A75F2030 /* Alamofire */ = {
@@ -271,8 +287,8 @@
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				90FDDC7F5D24472360CA259A8D40AE98 /* Pods */,
-				10BCCD47BB77368ACE71E8D5445F2EED /* Products */,
-				5BBE8C79E211BBCF627AA021E1DD467D /* Targets Support Files */,
+				1B97C9F51D317DDA9AF2FBEF4108D46C /* Products */,
+				8334225C358B045BB4D97337A0CA590A /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -284,33 +300,9 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F758B12DC47956109AA9B3AB7238E550 /* Pods-CitiesUITests */ = {
-			isa = PBXGroup;
-			children = (
-				BE25C9E13DF7F38ECAA76B20E8B839DE /* Pods-CitiesUITests.modulemap */,
-				9BD93208A0D8F3F3DDB5B15FB8D7F288 /* Pods-CitiesUITests-acknowledgements.markdown */,
-				0E8C6569E8C82760F09370F69F47AD66 /* Pods-CitiesUITests-acknowledgements.plist */,
-				A081DA23D38E9233DE29C22C9CEC858C /* Pods-CitiesUITests-dummy.m */,
-				03B9722D8BAF9A72DE9AF649272EFAB1 /* Pods-CitiesUITests-Info.plist */,
-				A62DD2B5FDD20479042D893219238885 /* Pods-CitiesUITests-umbrella.h */,
-				37361018F08BCF371AC5080B6BFD3254 /* Pods-CitiesUITests.debug.xcconfig */,
-				7ADF65E08AB85BFF15279FC5DD66FCF3 /* Pods-CitiesUITests.release.xcconfig */,
-			);
-			name = "Pods-CitiesUITests";
-			path = "Target Support Files/Pods-CitiesUITests";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		14CF8008EE3B3BEDFE59F9997D053C50 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				43AC6AEA9396F8DB2192D1EB196DC36D /* Pods-CitiesTests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		2582784E4FA6A1AC5D23FC53AC3F6EE2 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -319,80 +311,88 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6C31A5082ED6B2D2877399642CFCF605 /* Headers */ = {
+		835B7180D3664FE7D33B2D699DD06809 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F538012272F3694568E6C28EDBAE3261 /* Pods-Cities-umbrella.h in Headers */,
+				72D3C4D2BCD8FD8C11D24D6E69A24704 /* Pods-CityFinderAppTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8BFD480A881408FE3CD867FBA8984A5E /* Headers */ = {
+		A8123D14E5198AAFA3AD2CB4E0C956EC /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6CA34CA23DB734DCCFB1226BB9A3F6F4 /* Pods-CitiesUITests-umbrella.h in Headers */,
+				428A1CAE0B83588DE533A8C40CADB63A /* Pods-CityFinderAppUITests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F2F0CC4D3106F2DE0E16CC8751134203 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A973FF2F4F11E7D0B6C2E84FBEFFC871 /* Pods-CityFinderApp-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		6B9C2226F1F052953B43A0D18F47AC8C /* Pods-CitiesTests */ = {
+		61DCC628803A7AB235E600AD269E8262 /* Pods-CityFinderApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 07779E72B48F9476E03526980184433B /* Build configuration list for PBXNativeTarget "Pods-CitiesTests" */;
+			buildConfigurationList = CE982053A3D47D3057097AA998CAD6FE /* Build configuration list for PBXNativeTarget "Pods-CityFinderApp" */;
 			buildPhases = (
-				14CF8008EE3B3BEDFE59F9997D053C50 /* Headers */,
-				B29D092830BD12E06BAA53F2DD173FD3 /* Sources */,
-				A93643DBB6A16EB80A87F5DCFCBB9608 /* Frameworks */,
-				01D016E32463701C22FFD124857C5BAF /* Resources */,
+				F2F0CC4D3106F2DE0E16CC8751134203 /* Headers */,
+				B1CDE2E5DE2E7B79E0A2FD0A7135493F /* Sources */,
+				F7D7DFD20725447E3CE4CE2747D5BF28 /* Frameworks */,
+				FB6191F02162D50D58E8A38FC949945E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BD47AAF35CD85167EFC110C0E281FF0F /* PBXTargetDependency */,
+				2B855044CC4A0E354790146BF88D6470 /* PBXTargetDependency */,
 			);
-			name = "Pods-CitiesTests";
-			productName = "Pods-CitiesTests";
-			productReference = E5DCB36466ABA43CA0159BB575A60A45 /* Pods_CitiesTests.framework */;
+			name = "Pods-CityFinderApp";
+			productName = "Pods-CityFinderApp";
+			productReference = 30AA215365C15E59F67C38DBDA77F664 /* Pods_CityFinderApp.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		CDFB80CA7F8CC6AE33FA95131D8BA792 /* Pods-CitiesUITests */ = {
+		8C8034C13C1CABA9F1A3B697D60A4219 /* Pods-CityFinderAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F75E74D555C4C3F6668EF13CCAB29F8 /* Build configuration list for PBXNativeTarget "Pods-CitiesUITests" */;
+			buildConfigurationList = D8DF0B5D0F7249C578BB96297FDA6F4A /* Build configuration list for PBXNativeTarget "Pods-CityFinderAppUITests" */;
 			buildPhases = (
-				8BFD480A881408FE3CD867FBA8984A5E /* Headers */,
-				7B521CD0C1C46EDE597708AED92893E4 /* Sources */,
-				B3C41D704C385BAADF63835525B7CB58 /* Frameworks */,
-				588AA74B18290F4B00CEE7DDF50CD889 /* Resources */,
+				A8123D14E5198AAFA3AD2CB4E0C956EC /* Headers */,
+				C4A9FCDC2C401C8808749387D3C81426 /* Sources */,
+				D84A2D49AB5A03F10F3810510D34D678 /* Frameworks */,
+				F0DDF787A761C89CFB9F69CE3730B5A6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FD98AFD16F9FDCD074D4768B2F35C976 /* PBXTargetDependency */,
+				4E17E6DBFE52168E9805A798B9BB701F /* PBXTargetDependency */,
 			);
-			name = "Pods-CitiesUITests";
-			productName = "Pods-CitiesUITests";
-			productReference = 9DEC55CA87514681625C7C6A4A330B4F /* Pods_CitiesUITests.framework */;
+			name = "Pods-CityFinderAppUITests";
+			productName = "Pods-CityFinderAppUITests";
+			productReference = 39DFFCC52AE282632394B3EBAA421716 /* Pods_CityFinderAppUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		E5501AD3F9BF195EAB00F75E61B9845B /* Pods-Cities */ = {
+		B70AB3B54A856365DEE032EA55B812D4 /* Pods-CityFinderAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 34F4D320BC565A46C91BC08805494725 /* Build configuration list for PBXNativeTarget "Pods-Cities" */;
+			buildConfigurationList = 24ABE673B20BAE25F6A56CC2E554E353 /* Build configuration list for PBXNativeTarget "Pods-CityFinderAppTests" */;
 			buildPhases = (
-				6C31A5082ED6B2D2877399642CFCF605 /* Headers */,
-				A1F62133046FCA87FF6987C5AA36FB54 /* Sources */,
-				CBACD8125A930BC6E7CB5F0F95F836B0 /* Frameworks */,
-				ECD4B3589653FE6416C438A80C9D235B /* Resources */,
+				835B7180D3664FE7D33B2D699DD06809 /* Headers */,
+				080B9E3517ACA7031BADA6220EF52F75 /* Sources */,
+				FE64C153331F2ECA24A1F2C211EB7668 /* Frameworks */,
+				8D74044AC04D070C6F68617A52CEE8ED /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A47D0A2E732FA15F5BEB316AA9EAFDE1 /* PBXTargetDependency */,
+				813420217B29C67706BBCAD154153AB0 /* PBXTargetDependency */,
 			);
-			name = "Pods-Cities";
-			productName = "Pods-Cities";
-			productReference = 338473EC8D1C9173AF308B8200008295 /* Pods_Cities.framework */;
+			name = "Pods-CityFinderAppTests";
+			productName = "Pods-CityFinderAppTests";
+			productReference = FE7649F4E30F40E7A7F019C3246A2E80 /* Pods_CityFinderAppTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */ = {
@@ -430,26 +430,19 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 10BCCD47BB77368ACE71E8D5445F2EED /* Products */;
+			productRefGroup = 1B97C9F51D317DDA9AF2FBEF4108D46C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */,
-				E5501AD3F9BF195EAB00F75E61B9845B /* Pods-Cities */,
-				6B9C2226F1F052953B43A0D18F47AC8C /* Pods-CitiesTests */,
-				CDFB80CA7F8CC6AE33FA95131D8BA792 /* Pods-CitiesUITests */,
+				61DCC628803A7AB235E600AD269E8262 /* Pods-CityFinderApp */,
+				B70AB3B54A856365DEE032EA55B812D4 /* Pods-CityFinderAppTests */,
+				8C8034C13C1CABA9F1A3B697D60A4219 /* Pods-CityFinderAppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		01D016E32463701C22FFD124857C5BAF /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		473D3E892ABB6C798CFF290644259B34 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -457,14 +450,21 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		588AA74B18290F4B00CEE7DDF50CD889 /* Resources */ = {
+		8D74044AC04D070C6F68617A52CEE8ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ECD4B3589653FE6416C438A80C9D235B /* Resources */ = {
+		F0DDF787A761C89CFB9F69CE3730B5A6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB6191F02162D50D58E8A38FC949945E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -474,6 +474,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		080B9E3517ACA7031BADA6220EF52F75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E68FE869AE635A42551EFDDF88CB4781 /* Pods-CityFinderAppTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		2DDFD9AC10F181CD7130BDF5F9E0502B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -499,93 +507,46 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7B521CD0C1C46EDE597708AED92893E4 /* Sources */ = {
+		B1CDE2E5DE2E7B79E0A2FD0A7135493F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				128B954F26E174AD53738AF172CAF890 /* Pods-CitiesUITests-dummy.m in Sources */,
+				3ACCD292A41350A037C2ED332E537B48 /* Pods-CityFinderApp-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A1F62133046FCA87FF6987C5AA36FB54 /* Sources */ = {
+		C4A9FCDC2C401C8808749387D3C81426 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23C3CE2CF39F8CDA3218EDCEF0CA6605 /* Pods-Cities-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B29D092830BD12E06BAA53F2DD173FD3 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E2170F290070DA8C6AC53E944C23BAA5 /* Pods-CitiesTests-dummy.m in Sources */,
+				6F92546527AAC4B13B245DCDE84209EE /* Pods-CityFinderAppUITests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A47D0A2E732FA15F5BEB316AA9EAFDE1 /* PBXTargetDependency */ = {
+		2B855044CC4A0E354790146BF88D6470 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Alamofire;
 			target = EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */;
-			targetProxy = 88E5E34C1170A3ECA65B5299A76B7F20 /* PBXContainerItemProxy */;
+			targetProxy = 62CBBF2F539AA67CD433ED760D6BEB87 /* PBXContainerItemProxy */;
 		};
-		BD47AAF35CD85167EFC110C0E281FF0F /* PBXTargetDependency */ = {
+		4E17E6DBFE52168E9805A798B9BB701F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Pods-Cities";
-			target = E5501AD3F9BF195EAB00F75E61B9845B /* Pods-Cities */;
-			targetProxy = CABFA276F49691628270E9C8D6DE0E88 /* PBXContainerItemProxy */;
+			name = "Pods-CityFinderApp";
+			target = 61DCC628803A7AB235E600AD269E8262 /* Pods-CityFinderApp */;
+			targetProxy = 7CBA07898178E8BAF7F1FFC3A45AED88 /* PBXContainerItemProxy */;
 		};
-		FD98AFD16F9FDCD074D4768B2F35C976 /* PBXTargetDependency */ = {
+		813420217B29C67706BBCAD154153AB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Pods-Cities";
-			target = E5501AD3F9BF195EAB00F75E61B9845B /* Pods-Cities */;
-			targetProxy = 7684B76B1F46B14A4737F08D265C1EDF /* PBXContainerItemProxy */;
+			name = "Pods-CityFinderApp";
+			target = 61DCC628803A7AB235E600AD269E8262 /* Pods-CityFinderApp */;
+			targetProxy = 64294C605A48098091337618E87656E9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0F52C0FD054D08D8A5C16015BFE14420 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E76D8C1C937904444C0BA67AAA450F77 /* Pods-CitiesTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CitiesTests/Pods-CitiesTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CitiesTests/Pods-CitiesTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		141A11F3B1F5EE9BCF9378B5A11747E7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 985417470B9341C92A5160D4B2FF2B08 /* Alamofire.xcconfig */;
@@ -621,44 +582,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		25673AA8A63E48E5E6151A2C45507F8C /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1B19E0C496CE69DD9B32796EDC55BCA6 /* Pods-Cities.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Cities/Pods-Cities-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Cities/Pods-Cities.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		257497152829C177993B5EC99C1D227A /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -720,9 +643,9 @@
 			};
 			name = Release;
 		};
-		874F9442A79F6D897432E99EF4F8E245 /* Debug */ = {
+		5C3C1AFD79543CC480734E5FA3A46644 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0EFE0DE17569FFB965F9CBE43FA43F3C /* Pods-CitiesTests.debug.xcconfig */;
+			baseConfigurationReference = 5A9ED73AA7927425D517617FBB5EA2DE /* Pods-CityFinderAppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -735,7 +658,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CitiesTests/Pods-CitiesTests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-CityFinderAppTests/Pods-CityFinderAppTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -744,7 +667,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CitiesTests/Pods-CitiesTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-CityFinderAppTests/Pods-CityFinderAppTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -758,9 +681,9 @@
 			};
 			name = Debug;
 		};
-		A2113AE6CE82BA60A551D1ABB6B23A84 /* Release */ = {
+		643DB21A6A82679EBEE4C5A23716665A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7ADF65E08AB85BFF15279FC5DD66FCF3 /* Pods-CitiesUITests.release.xcconfig */;
+			baseConfigurationReference = 76C8BF03001F3AC63DBF8AA5FD597445 /* Pods-CityFinderAppUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -773,7 +696,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CitiesUITests/Pods-CitiesUITests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-CityFinderAppUITests/Pods-CityFinderAppUITests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -782,7 +705,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CitiesUITests/Pods-CitiesUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-CityFinderAppUITests/Pods-CityFinderAppUITests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -797,9 +720,9 @@
 			};
 			name = Release;
 		};
-		B5B5B9202F4E8AC42D1785AA7D170D8C /* Debug */ = {
+		698E02762D3A1D96866DB97619AF1150 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 37361018F08BCF371AC5080B6BFD3254 /* Pods-CitiesUITests.debug.xcconfig */;
+			baseConfigurationReference = B74557C47515A7B70DB9C948261AC13D /* Pods-CityFinderApp.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -812,7 +735,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CitiesUITests/Pods-CitiesUITests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-CityFinderApp/Pods-CityFinderApp-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -821,45 +744,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CitiesUITests/Pods-CitiesUITests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		BA7460CBA3F42EB7495A0D2982652681 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 91864601632C80F86095107F4FBBC621 /* Pods-Cities.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Cities/Pods-Cities-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Cities/Pods-Cities.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-CityFinderApp/Pods-CityFinderApp.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -873,6 +758,83 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		89554ACE1D573D64C753AFA04BB19C00 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C2E0BC36995689582798B6E468F1BDEC /* Pods-CityFinderAppTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CityFinderAppTests/Pods-CityFinderAppTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CityFinderAppTests/Pods-CityFinderAppTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		A35B85729C191F6F4CB35989F76F704A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1CB9441BF9AA607AAC48E2BF4623DF54 /* Pods-CityFinderApp.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CityFinderApp/Pods-CityFinderApp-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CityFinderApp/Pods-CityFinderApp.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		DD8F832993327D1DD8046C3CBCBD97CD /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -973,32 +935,52 @@
 			};
 			name = Debug;
 		};
+		F127FBFC707B8CE191425802253A9035 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A990B274C90E34F348F5254D5A19A3D0 /* Pods-CityFinderAppUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CityFinderAppUITests/Pods-CityFinderAppUITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CityFinderAppUITests/Pods-CityFinderAppUITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		07779E72B48F9476E03526980184433B /* Build configuration list for PBXNativeTarget "Pods-CitiesTests" */ = {
+		24ABE673B20BAE25F6A56CC2E554E353 /* Build configuration list for PBXNativeTarget "Pods-CityFinderAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				874F9442A79F6D897432E99EF4F8E245 /* Debug */,
-				0F52C0FD054D08D8A5C16015BFE14420 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		0F75E74D555C4C3F6668EF13CCAB29F8 /* Build configuration list for PBXNativeTarget "Pods-CitiesUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				B5B5B9202F4E8AC42D1785AA7D170D8C /* Debug */,
-				A2113AE6CE82BA60A551D1ABB6B23A84 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		34F4D320BC565A46C91BC08805494725 /* Build configuration list for PBXNativeTarget "Pods-Cities" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				25673AA8A63E48E5E6151A2C45507F8C /* Debug */,
-				BA7460CBA3F42EB7495A0D2982652681 /* Release */,
+				5C3C1AFD79543CC480734E5FA3A46644 /* Debug */,
+				89554ACE1D573D64C753AFA04BB19C00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1008,6 +990,24 @@
 			buildConfigurations = (
 				DD8F832993327D1DD8046C3CBCBD97CD /* Debug */,
 				257497152829C177993B5EC99C1D227A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE982053A3D47D3057097AA998CAD6FE /* Build configuration list for PBXNativeTarget "Pods-CityFinderApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A35B85729C191F6F4CB35989F76F704A /* Debug */,
+				698E02762D3A1D96866DB97619AF1150 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8DF0B5D0F7249C578BB96297FDA6F4A /* Build configuration list for PBXNativeTarget "Pods-CityFinderAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F127FBFC707B8CE191425802253A9035 /* Debug */,
+				643DB21A6A82679EBEE4C5A23716665A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

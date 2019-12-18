@@ -1,19 +1,19 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'Cities' do
+target 'CityFinderApp' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Cities
+  # Pods for CityFinderApp
 pod 'Alamofire'
 
-  target 'CitiesTests' do
+  target 'CityFinderAppTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'CitiesUITests' do
+  target 'CityFinderAppUITests' do
     inherit! :search_paths
     # Pods for testing
   end
